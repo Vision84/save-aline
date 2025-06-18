@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.5, pytest-8.4.0, pluggy-1.6.0
+rootdir: /Users/anilb/Desktop/save-aline
+plugins: cov-6.2.1
+collected 7 items
+
+tests/test_extractors.py .....ss                                         [100%]
+
+======================== 5 passed, 2 skipped in 16.77s =========================
